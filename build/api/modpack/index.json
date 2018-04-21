@@ -1,0 +1,14 @@
+{
+    "modpacks": {
+        "bigfork": {
+            "name": "bigfork",
+            "url": "",
+            "display_name": "Big Fork",
+            "recommended": "1.0.0",
+            "latest": "1.0.0",
+            "builds": [
+                "1.0.0"
+            ]
+        }
+    }
+}

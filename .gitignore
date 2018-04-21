@@ -1,0 +1,6 @@
+**/mods/
+build/client/bin/modpack.jar
+build/resources
+build/server
+build/api/verify
+.env

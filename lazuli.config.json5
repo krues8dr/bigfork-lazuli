@@ -1,0 +1,91 @@
+{
+
+	"name": "Big Fork",
+	"slug": "bigfork",
+	"version": "1.1.1",
+	"mcversion": "1.12.2",
+	"release": "stable",
+	"demoseed": "3058446097176073598",
+	"url": "https://www.technicpack.net/modpack/bigfork.687106",
+
+	"mods": {
+
+		/* Requirements */
+		"codechicken-lib-1-8": "*",
+		"redstone-flux": "*", // Req: cofhcore
+		"cofhcore": "*", // Req: Thermal Expansion
+		"cofh-world": "*", // Req: Thermal Expansion
+		"thermal-foundation": "*", // Req: Thermal Expansion
+		"mantle": "*", // Req: Tinkers Construct, Natura
+		"chameleon": "*", // Req: Storage Drawers
+		"zerocore": "beta", // Req: Extreme Reactors
+		"shadowfacts-forgelin": "*", // Req: Tesla Core
+		"tesla-core-lib": "beta", // Req: Industrial Foregoing
+		"jei": "*", // Req: Not Enough Items
+		"ivtoolkit": "*", // Req: Recurrent Complex
+		"reborncore": "*", // Req: Steve's Carts 2
+
+		/* Worlds */
+		// "aether": "*", // Doesn't support 1.12
+		"aether-legacy": "*",
+		"the-twilight-forest": "*",
+		"dimensionaldoors": "beta",
+
+		/* WorldGen */
+		"recurrent-complex": "*", // Ruins, etc.
+		"ruins-structure-spawning-system": "*",
+		"traverse": "*", // New biomes
+
+		/* Features */
+		// "armorstatushud": "*", // Doesn't support 1.12
+		"hunger-strike": "*",
+		"inventory-tweaks": "*",
+		"not-enough-items-1-8": "*",
+		"xaeros-minimap": "*", // Replaces Rei's Minimap
+		"treecapitator-port": "alpha",
+		"hwyla": "*", // Replaces WAILA (What Am I Looking At)
+		"waila-harvestability": "*",
+
+		/* Items */
+		// "backpacks": "*", // Doesn't support 1.12
+		"wearable-backpacks": "*",
+		// "artifice": "*", // Doesn't support 1.12
+		"ender-storage-1-8": "*",
+		"projecte": "*", // Equivalent Exchange
+		"iron-chests": "*",
+
+		/* Machines */
+		"buildcraft": "alpha",
+
+		// TConstruct mods
+		"tinkers-construct": "*",
+		//"another-one-bites-the-dust": "*", // Doesn't support 1.12
+		"natura": "*",
+		"extreme-reactors": "beta",
+		"moar-tinkers": "*",
+		// "plustic": "*" // Don't need this yet?
+		// "tic-tooltips": "*", // Doesn't support 1.12
+
+		"mekanism": "*",
+		"mekanism-tools": "*",
+		"mekanism-generators": "*",
+
+		// "nether-metals": "*", // Replaces NetherOres
+
+		// "metallurgycore": "*", // Doesn't support 1.12
+		// "metallurgy": "*", // Doesn't support 1.12
+		"industrial-foregoing": "*", // Repleaces Minefactory Reloaded
+
+		"thermalexpansion": "*",
+		"steves-carts-reborn": "*",
+
+		/* Furniture */
+		"bibliocraft": "*",
+		"storage-drawers": "*",
+
+	},
+
+  "maxpages": 5,
+  "apikey": ""
+
+}
