@@ -2,7 +2,7 @@
 
 	"name": "Big Fork",
 	"slug": "bigfork",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"mcversion": "1.12.2",
 	"release": "stable",
 	"demoseed": "3058446097176073598",
@@ -24,6 +24,7 @@
 		"jei": "*", // Req: Not Enough Items
 		"ivtoolkit": "*", // Req: Recurrent Complex
 		"reborncore": "*", // Req: Steve's Carts 2
+		"endercore": "beta", // Req: Ender IO
 
 		/* Worlds */
 		// "aether": "*", // Doesn't support 1.12
@@ -55,14 +56,16 @@
 		"iron-chests": "*",
 
 		/* Machines */
-		"buildcraft": "alpha",
+		"buildcraft": "alpha", // No longer works but still here for legacy support
+		"ender-io": "stable", // Replaces Buildcraft
+		"computercraft": "alpha",
 
 		// TConstruct mods
 		"tinkers-construct": "*",
 		//"another-one-bites-the-dust": "*", // Doesn't support 1.12
 		"natura": "*",
 		"extreme-reactors": "beta",
-		"moar-tinkers": "*",
+		// "moar-tinkers": "*", // Breaks & lags when used with enderio
 		// "plustic": "*" // Don't need this yet?
 		// "tic-tooltips": "*", // Doesn't support 1.12
 
