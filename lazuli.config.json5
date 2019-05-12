@@ -1,92 +1,110 @@
 {
 
-	"name": "Big Fork",
-	"slug": "bigfork",
-	"version": "1.1.2",
-	"mcversion": "1.12.2",
-	"release": "stable",
-	"demoseed": "3058446097176073598",
-	"url": "https://www.technicpack.net/modpack/bigfork.687106",
+  "name": "Big Fork",
+  "slug": "bigfork",
+  "version": "1.2.1",
+  "mcversion": "1.12.2",
+  "release": "stable",
+  "demoseed": "3058446097176073598",
+  "url": "https://www.technicpack.net/modpack/bigfork.687106",
 
-	"mods": {
+  "mods": {
 
-		/* Requirements */
-		"codechicken-lib-1-8": "*",
-		"redstone-flux": "*", // Req: cofhcore
-		"cofhcore": "*", // Req: Thermal Expansion
-		"cofh-world": "*", // Req: Thermal Expansion
-		"thermal-foundation": "*", // Req: Thermal Expansion
-		"mantle": "*", // Req: Tinkers Construct, Natura
-		"chameleon": "*", // Req: Storage Drawers
-		"zerocore": "beta", // Req: Extreme Reactors
-		"shadowfacts-forgelin": "*", // Req: Tesla Core
-		"tesla-core-lib": "beta", // Req: Industrial Foregoing
-		"jei": "*", // Req: Not Enough Items
-		"ivtoolkit": "*", // Req: Recurrent Complex
-		"reborncore": "*", // Req: Steve's Carts 2
-		"endercore": "beta", // Req: Ender IO
+    /* Requirements */
+    "baubles": "*", // Req. Thaumcraft
+    "cucumber": "*", // Req. MysticalAgriculture
+    "codechicken-lib-1-8": "*", // Req. NEI
+    "redstone-flux": "*", // Req: cofhcore
+    "cofhcore": "*", // Req: Thermal Expansion
+    "cofh-world": "*", // Req: Thermal Expansion
+    "thermal-foundation": "*", // Req: Thermal Expansion
+    "mantle": "*", // Req: Tinkers Construct, Natura
+    "chameleon": "*", // Req: Storage Drawers
+    "zerocore": "beta", // Req: Extreme Reactors
+    "shadowfacts-forgelin": "*", // Req: Tesla Core
+    "tesla-core-lib": "beta", // Req: Industrial Foregoing
+    "jei": "*", // Req: Not Enough Items
+    // "ivtoolkit": "*", // Req: Recurrent Complex
+    "reborncore": "*", // Req: Steve's Carts 2
+    "endercore": "*", // Req: Ender IO
+    "ctm": "beta", // Req: chisel
 
-		/* Worlds */
-		// "aether": "*", // Doesn't support 1.12
-		"aether-legacy": "*",
-		"the-twilight-forest": "*",
-		"dimensionaldoors": "beta",
+    /* Worlds */
+    // "aether": "*", // Doesn't support 1.12
+    //"aether-legacy": "*", // Replaced with:
+    "the-aether": "*",
+    "the-twilight-forest": "*",
+    // "dimensionaldoors": "beta", // Can't escape Limbo, and too dark to see.
 
-		/* WorldGen */
-		"recurrent-complex": "*", // Ruins, etc.
-		"ruins-structure-spawning-system": "*",
-		"traverse": "*", // New biomes
+    /* WorldGen */
+    // "recurrent-complex": "*", // Ruins, etc. Chokes performance
+    // "ruins-structure-spawning-system": "*", // Also chokes
+    "traverse": "*", // New biomes
+    "forestry": "*", // Trees and bees
 
-		/* Features */
-		// "armorstatushud": "*", // Doesn't support 1.12
-		"hunger-strike": "*",
-		"inventory-tweaks": "*",
-		"not-enough-items-1-8": "*",
-		"xaeros-minimap": "*", // Replaces Rei's Minimap
-		"treecapitator-port": "alpha",
-		"hwyla": "*", // Replaces WAILA (What Am I Looking At)
-		"waila-harvestability": "*",
+    /* Features */
+    // "armorstatushud": "*", // Doesn't support 1.12
+    "hunger-strike": "*",
+    "inventory-tweaks": "*",
+    "not-enough-items-1-8": "*",
+    "xaeros-minimap": "*", // Replaces Rei's Minimap
+    "treecapitator-port": "alpha",
+    "hwyla": "*", // Replaces WAILA (What Am I Looking At)
+    "waila-harvestability": "*",
 
-		/* Items */
-		// "backpacks": "*", // Doesn't support 1.12
-		"wearable-backpacks": "*",
-		// "artifice": "*", // Doesn't support 1.12
-		"ender-storage-1-8": "*",
-		"projecte": "*", // Equivalent Exchange
-		"iron-chests": "*",
+    /* Items */
+    // "backpacks": "*", // Doesn't support 1.12
+    "wearable-backpacks": "*",
+    // "artifice": "*", // Doesn't support 1.12
+    "ender-storage-1-8": "*",
+    "projecte": "*", // Equivalent Exchange
+    "iron-chests": "*",
+    "carpenters-blocks": "http://carpentersblocks.website/downloads/Carpenter's%20Blocks%20v3.4.004%20POC%20-%20MC%201.12.2.jar",
+    "stimmedcow-nomorerecipeconflict": "*",
+    "chisel": "beta",
 
-		/* Machines */
-		"buildcraft": "alpha", // No longer works but still here for legacy support
-		"ender-io": "stable", // Replaces Buildcraft
-		"computercraft": "alpha",
+    /* Machines */
+    // "buildcraft": "alpha", // No longer works with other mods
+    "ender-io": "stable", // Replaces Buildcraft
+    "computercraft": "alpha",
 
-		// TConstruct mods
-		"tinkers-construct": "*",
-		//"another-one-bites-the-dust": "*", // Doesn't support 1.12
-		"natura": "*",
-		"extreme-reactors": "beta",
-		// "moar-tinkers": "*", // Breaks & lags when used with enderio
-		// "plustic": "*" // Don't need this yet?
-		// "tic-tooltips": "*", // Doesn't support 1.12
+    /* Magic */
+    "thaumcraft": "beta",
+    "mystical-agriculture": "*",
+    "mystical-agradditions": "*",
 
-		"mekanism": "*",
-		"mekanism-tools": "*",
-		"mekanism-generators": "*",
+    // TConstruct mods
+    "tinkers-construct": "*",
+    //"another-one-bites-the-dust": "*", // Doesn't support 1.12
+    "natura": "*",
+    "extreme-reactors": "beta",
+    "tinkers-tool-leveling": "*",
+    // "moar-tinkers": "*", // Breaks & lags when used with enderio
+    "plustic": "*",
+    // "tic-tooltips": "*", // Doesn't support 1.12
 
-		// "nether-metals": "*", // Replaces NetherOres
+    "mekanism": "*",
+    "mekanism-tools": "*",
+    "mekanism-generators": "*",
 
-		// "metallurgycore": "*", // Doesn't support 1.12
-		// "metallurgy": "*", // Doesn't support 1.12
-		"industrial-foregoing": "*", // Repleaces Minefactory Reloaded
+    // "nether-metals": "*", // Replaces NetherOres
 
-		"thermalexpansion": "*",
-		"steves-carts-reborn": "*",
+    // "metallurgycore": "*", // Doesn't support 1.12
+    // "metallurgy": "*", // Doesn't support 1.12
+    "industrial-foregoing": "*", // Replaces Minefactory Reloaded
 
-		/* Furniture */
-		"bibliocraft": "*",
-		"storage-drawers": "*",
+    "thermalexpansion": "*",
+    "steves-carts-reborn": "*",
 
-	},
+    /* Furniture */
+    "bibliocraft": "*",
+    "storage-drawers": "*",
+
+    /* New mods 1.2.1 */
+    "immersive-engineering": "*",
+    "constructs-armory": "*",
+    "refined-storage": "*",
+  },
 
   "maxpages": 5,
   "apikey": ""

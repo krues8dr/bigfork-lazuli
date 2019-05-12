@@ -1,6 +1,6 @@
 {
     "name": "Big Fork",
-    "version": "1.0.0",
+    "version": "1.2.1",
     "minecraft": "1.12.2",
     "mods": {
         "hunger-strike": {
@@ -9,279 +9,29 @@
             "version": "HungerStrike-1.12-1.0.8.jar",
             "link": "https://minecraft.curseforge.com/projects/hunger-strike/files/2433217/download",
             "name": "hunger-strike",
-            "path": "build/mods/hunger-strike---hungerstrike-1.12-1.0.8.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/hunger-strike---hungerstrike-1.12-1.0.8.jar",
+            "path": "mods/hunger-strike---hungerstrike-1.12-1.0.8.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/hunger-strike---hungerstrike-1.12-1.0.8.jar",
             "hash": "c0a21f3db3747e4496772c7ba1891588"
         },
-        "traverse": {
+        "carpenters-blocks": {
+            "mcversion": "1.12.2",
+            "name": "carpenters-blocks",
+            "version": "Carpenter's%20Blocks%20v3.4.004%20POC%20-%20MC%201.12.2.jar",
+            "release": "custom",
+            "link": "http://carpentersblocks.website/downloads/Carpenter's%20Blocks%20v3.4.004%20POC%20-%20MC%201.12.2.jar",
+            "path": "mods/carpenters-blocks---carpentersblocksv3.4.004poc-mc1.12.2.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/carpenters-blocks---carpentersblocksv3.4.004poc-mc1.12.2.jar",
+            "hash": "ac6876fd9cd4abcd73eec49bfb14f402"
+        },
+        "cucumber": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "Traverse v1.4.1 build49 for 1.12.2",
-            "link": "https://minecraft.curseforge.com/projects/traverse/files/2549418/download",
-            "name": "traverse",
-            "path": "build/mods/traverse---traverse-v1.4.1-build49-for-1.12.2.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/traverse---traverse-v1.4.1-build49-for-1.12.2.jar",
-            "hash": "ac51ffa59cef9d39b89e982b0b1558c5"
-        },
-        "ender-storage-1-8": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Ender Storage 1.12.2-2.4.2.126-universal",
-            "link": "https://minecraft.curseforge.com/projects/ender-storage-1-8/files/2509842/download",
-            "name": "ender-storage-1-8",
-            "path": "build/mods/ender-storage-1-8---ender-storage-1.12.2-2.4.2.126-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/ender-storage-1-8---ender-storage-1.12.2-2.4.2.126-universal.jar",
-            "hash": "ffc1d43ab70c751a90b343fdd826ea73"
-        },
-        "treecapitator-port": {
-            "mcversion": "1.12.2",
-            "release": "alpha",
-            "version": "Treecapitator at_0.9a",
-            "link": "https://minecraft.curseforge.com/projects/treecapitator-port/files/2443661/download",
-            "name": "treecapitator-port",
-            "path": "build/mods/treecapitator-port---treecapitator-at-0.9a.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/treecapitator-port---treecapitator-at-0.9a.jar",
-            "hash": "60e452b5b3de3c8176982cd55919a44f"
-        },
-        "cofh-world": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "CoFHWorld-1.12.2-1.1.1.12-universal.jar",
-            "link": "https://minecraft.curseforge.com/projects/cofh-world/files/2513671/download",
-            "name": "cofh-world",
-            "path": "build/mods/cofh-world---cofhworld-1.12.2-1.1.1.12-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/cofh-world---cofhworld-1.12.2-1.1.1.12-universal.jar",
-            "hash": "b6bb4654ce07e8842b632fbe327ef5fe"
-        },
-        "extreme-reactors": {
-            "mcversion": "1.12.2",
-            "release": "beta",
-            "version": "ExtremeReactors-1.12.2-0.4.5.48.jar",
-            "link": "https://minecraft.curseforge.com/projects/extreme-reactors/files/2545869/download",
-            "name": "extreme-reactors",
-            "path": "build/mods/extreme-reactors---extremereactors-1.12.2-0.4.5.48.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/extreme-reactors---extremereactors-1.12.2-0.4.5.48.jar",
-            "hash": "e83c3f177db7b64da358499181445f8f"
-        },
-        "endercore": {
-            "mcversion": "1.12.2",
-            "release": "beta",
-            "version": "EnderCore - 1.12.2-0.5.20",
-            "link": "https://minecraft.curseforge.com/projects/endercore/files/2552598/download",
-            "name": "endercore",
-            "path": "build/mods/endercore---endercore---1.12.2-0.5.20.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/endercore---endercore---1.12.2-0.5.20.jar",
-            "hash": "3c50ec9479f595af8766a704fabd7441"
-        },
-        "codechicken-lib-1-8": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "CodeChicken Lib 1.12.2-3.1.6.339-universal",
-            "link": "https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2540351/download",
-            "name": "codechicken-lib-1-8",
-            "path": "build/mods/codechicken-lib-1-8---codechicken-lib-1.12.2-3.1.6.339-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/codechicken-lib-1-8---codechicken-lib-1.12.2-3.1.6.339-universal.jar",
-            "hash": "edd6dc7efd8fda77a073aa778d94c2c0"
-        },
-        "mekanism-generators": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "MekanismGenerators-1.12.2-9.4.3.330.jar",
-            "link": "https://minecraft.curseforge.com/projects/mekanism-generators/files/2510813/download",
-            "name": "mekanism-generators",
-            "path": "build/mods/mekanism-generators---mekanismgenerators-1.12.2-9.4.3.330.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/mekanism-generators---mekanismgenerators-1.12.2-9.4.3.330.jar",
-            "hash": "6ed4db5f2a9635ceee1058f34e1d84c1"
-        },
-        "wearable-backpacks": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Wearable Backpacks - 1.12.2 - 3.1.2",
-            "link": "https://minecraft.curseforge.com/projects/wearable-backpacks/files/2525511/download",
-            "name": "wearable-backpacks",
-            "path": "build/mods/wearable-backpacks---wearable-backpacks---1.12.2---3.1.2.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/wearable-backpacks---wearable-backpacks---1.12.2---3.1.2.jar",
-            "hash": "300236193d940d786896dbfa388f4b8b"
-        },
-        "hwyla": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Hwyla-1.8.24-B39_1.12.jar",
-            "link": "https://minecraft.curseforge.com/projects/hwyla/files/2542548/download",
-            "name": "hwyla",
-            "path": "build/mods/hwyla---hwyla-1.8.24-b39-1.12.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/hwyla---hwyla-1.8.24-b39-1.12.jar",
-            "hash": "6d03d0f2d87a80467d5d3e3ce2a80e98"
-        },
-        "iron-chests": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "ironchest-1.12.2-7.0.40.824.jar",
-            "link": "https://minecraft.curseforge.com/projects/iron-chests/files/2533664/download",
-            "name": "iron-chests",
-            "path": "build/mods/iron-chests---ironchest-1.12.2-7.0.40.824.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/iron-chests---ironchest-1.12.2-7.0.40.824.jar",
-            "hash": "dd941ee283cfc5507ed846a1f52e67be"
-        },
-        "not-enough-items-1-8": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Not Enough Items 1.12.2-2.4.1.233-universal",
-            "link": "https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851/download",
-            "name": "not-enough-items-1-8",
-            "path": "build/mods/not-enough-items-1-8---not-enough-items-1.12.2-2.4.1.233-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/not-enough-items-1-8---not-enough-items-1.12.2-2.4.1.233-universal.jar",
-            "hash": "ab2b0106cdcf4f272b4df55743e0bd12"
-        },
-        "tesla-core-lib": {
-            "mcversion": "1.12.2",
-            "release": "beta",
-            "version": "Tesla Core Lib : 1.0.13.8",
-            "link": "https://minecraft.curseforge.com/projects/tesla-core-lib/files/2536444/download",
-            "name": "tesla-core-lib",
-            "path": "build/mods/tesla-core-lib---tesla-core-lib-1.0.13.8.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/tesla-core-lib---tesla-core-lib-1.0.13.8.jar",
-            "hash": "83449e5ccce1cb4fe95774c2e121644e"
-        },
-        "zerocore": {
-            "mcversion": "1.12.2",
-            "release": "beta",
-            "version": "zerocore-1.12-0.1.2.1.jar",
-            "link": "https://minecraft.curseforge.com/projects/zerocore/files/2545939/download",
-            "name": "zerocore",
-            "path": "build/mods/zerocore---zerocore-1.12-0.1.2.1.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/zerocore---zerocore-1.12-0.1.2.1.jar",
-            "hash": "a77f87366de6a6e9c786c59c786aa8b7"
-        },
-        "waila-harvestability": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "WailaHarvestability-mc1.12-1.1.12.jar",
-            "link": "https://minecraft.curseforge.com/projects/waila-harvestability/files/2481605/download",
-            "name": "waila-harvestability",
-            "path": "build/mods/waila-harvestability---wailaharvestability-mc1.12-1.1.12.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/waila-harvestability---wailaharvestability-mc1.12-1.1.12.jar",
-            "hash": "0bd8765ff3064be336cb1b09208e410c"
-        },
-        "storage-drawers": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "StorageDrawers-1.12.2-5.3.6.jar",
-            "link": "https://minecraft.curseforge.com/projects/storage-drawers/files/2545495/download",
-            "name": "storage-drawers",
-            "path": "build/mods/storage-drawers---storagedrawers-1.12.2-5.3.6.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/storage-drawers---storagedrawers-1.12.2-5.3.6.jar",
-            "hash": "85e61670aa8a97002e7a382effdeac51"
-        },
-        "mekanism-tools": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "MekanismTools-1.12.2-9.4.3.330.jar",
-            "link": "https://minecraft.curseforge.com/projects/mekanism-tools/files/2510814/download",
-            "name": "mekanism-tools",
-            "path": "build/mods/mekanism-tools---mekanismtools-1.12.2-9.4.3.330.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/mekanism-tools---mekanismtools-1.12.2-9.4.3.330.jar",
-            "hash": "c0dd879190f51d8accffc6533412b231"
-        },
-        "chameleon": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Chameleon-1.12-4.1.3.jar",
-            "link": "https://minecraft.curseforge.com/projects/chameleon/files/2450900/download",
-            "name": "chameleon",
-            "path": "build/mods/chameleon---chameleon-1.12-4.1.3.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/chameleon---chameleon-1.12-4.1.3.jar",
-            "hash": "e42efa8f4fd42d2918128a826b740e98"
-        },
-        "reborncore": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "RebornCore-1.12.2-3.8.0.264-universal.jar",
-            "link": "https://minecraft.curseforge.com/projects/reborncore/files/2553850/download",
-            "name": "reborncore",
-            "path": "build/mods/reborncore---reborncore-1.12.2-3.8.0.264-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/reborncore---reborncore-1.12.2-3.8.0.264-universal.jar",
-            "hash": "569578f39916b3c3bd041ebaf3db7ea1"
-        },
-        "natura": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "natura-1.12.2-4.3.2.49.jar",
-            "link": "https://minecraft.curseforge.com/projects/natura/files/2553697/download",
-            "name": "natura",
-            "path": "build/mods/natura---natura-1.12.2-4.3.2.49.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/natura---natura-1.12.2-4.3.2.49.jar",
-            "hash": "1ebaf8712bb619fc75641d71cbf1002b"
-        },
-        "projecte": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "ProjectE-1.12-PE1.2.0.jar",
-            "link": "https://minecraft.curseforge.com/projects/projecte/files/2518569/download",
-            "name": "projecte",
-            "path": "build/mods/projecte---projecte-1.12-pe1.2.0.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/projecte---projecte-1.12-pe1.2.0.jar",
-            "hash": "a1215071eadfbec18a32b1d7c956cea8"
-        },
-        "ruins-structure-spawning-system": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Ruins (Structure Spawning System)",
-            "link": "https://minecraft.curseforge.com/projects/ruins-structure-spawning-system/files/2549128/download",
-            "name": "ruins-structure-spawning-system",
-            "path": "build/mods/ruins-structure-spawning-system---ruins-structure-spawning-system.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/ruins-structure-spawning-system---ruins-structure-spawning-system.jar",
-            "hash": "f3342c626818be64c9164e66b3499476"
-        },
-        "redstone-flux": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
-            "link": "https://minecraft.curseforge.com/projects/redstone-flux/files/2448933/download",
-            "name": "redstone-flux",
-            "path": "build/mods/redstone-flux---redstoneflux-1.12-2.0.1.2-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/redstone-flux---redstoneflux-1.12-2.0.1.2-universal.jar",
-            "hash": "78bf83d17f71ea96cff66d93a6c0412a"
-        },
-        "steves-carts-reborn": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "StevesCarts-1.12.2-2.4.18.92.jar",
-            "link": "https://minecraft.curseforge.com/projects/steves-carts-reborn/files/2539158/download",
-            "name": "steves-carts-reborn",
-            "path": "build/mods/steves-carts-reborn---stevescarts-1.12.2-2.4.18.92.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/steves-carts-reborn---stevescarts-1.12.2-2.4.18.92.jar",
-            "hash": "1f288760d92aced1dc7eb89497d68b61"
-        },
-        "industrial-foregoing": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "industrialforegoing-1.12.2-1.8.9-138.jar",
-            "link": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2552425/download",
-            "name": "industrial-foregoing",
-            "path": "build/mods/industrial-foregoing---industrialforegoing-1.12.2-1.8.9-138.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/industrial-foregoing---industrialforegoing-1.12.2-1.8.9-138.jar",
-            "hash": "111930d4a1a981fe3039233bcd0abf76"
-        },
-        "thermalexpansion": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "ThermalExpansion-1.12.2-5.3.12.17-universal.jar",
-            "link": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2552624/download",
-            "name": "thermalexpansion",
-            "path": "build/mods/thermalexpansion---thermalexpansion-1.12.2-5.3.12.17-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/thermalexpansion---thermalexpansion-1.12.2-5.3.12.17-universal.jar",
-            "hash": "8d776ad45c070a86fd320c8da80208b6"
-        },
-        "cofhcore": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "CoFHCore-1.12.2-4.3.11.6-universal.jar",
-            "link": "https://minecraft.curseforge.com/projects/cofhcore/files/2549394/download",
-            "name": "cofhcore",
-            "path": "build/mods/cofhcore---cofhcore-1.12.2-4.3.11.6-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/cofhcore---cofhcore-1.12.2-4.3.11.6-universal.jar",
-            "hash": "ae5ef20f029fec9d5225d32f502f14b8"
+            "version": "Cucumber-1.12.2-1.1.3.jar",
+            "link": "https://minecraft.curseforge.com/projects/cucumber/files/2645867/download",
+            "name": "cucumber",
+            "path": "mods/cucumber---cucumber-1.12.2-1.1.3.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/cucumber---cucumber-1.12.2-1.1.3.jar",
+            "hash": "0018d8de31b05dc44c80a25d73fde15b"
         },
         "inventory-tweaks": {
             "mcversion": "1.12.2",
@@ -289,19 +39,319 @@
             "version": "Inventory Tweaks 1.63",
             "link": "https://minecraft.curseforge.com/projects/inventory-tweaks/files/2482481/download",
             "name": "inventory-tweaks",
-            "path": "build/mods/inventory-tweaks---inventory-tweaks-1.63.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/inventory-tweaks---inventory-tweaks-1.63.jar",
+            "path": "mods/inventory-tweaks---inventory-tweaks-1.63.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/inventory-tweaks---inventory-tweaks-1.63.jar",
             "hash": "1e2e33e5710394252abc4b014bc3dcbd"
         },
-        "ivtoolkit": {
+        "xaeros-minimap": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "IvToolkit-1.3.3-1.12.jar",
-            "link": "https://minecraft.curseforge.com/projects/ivtoolkit/files/2443253/download",
-            "name": "ivtoolkit",
-            "path": "build/mods/ivtoolkit---ivtoolkit-1.3.3-1.12.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/ivtoolkit---ivtoolkit-1.3.3-1.12.jar",
-            "hash": "f1a23cb6eaa682240c0ecdab65e7857f"
+            "version": "v1.16.6 for Minecraft 1.12.2 | 1.12.1 | 1.12",
+            "link": "https://minecraft.curseforge.com/projects/xaeros-minimap/files/2705897/download",
+            "name": "xaeros-minimap",
+            "path": "mods/xaeros-minimap---v1.16.6-for-minecraft-1.12.2-1.12.1-1.12.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/xaeros-minimap---v1.16.6-for-minecraft-1.12.2-1.12.1-1.12.jar",
+            "hash": "e7cb205c9f1a594953016f614d5f53e1"
+        },
+        "mystical-agradditions": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "MysticalAgradditions-1.12.2-1.3.2.jar",
+            "link": "https://minecraft.curseforge.com/projects/mystical-agradditions/files/2704832/download",
+            "name": "mystical-agradditions",
+            "path": "mods/mystical-agradditions---mysticalagradditions-1.12.2-1.3.2.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/mystical-agradditions---mysticalagradditions-1.12.2-1.3.2.jar",
+            "hash": "ead0f02e214ab12b4f7b86c79fc23ffa"
+        },
+        "not-enough-items-1-8": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Not Enough Items 1.12.2-2.4.2.240-universal",
+            "link": "https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2626087/download",
+            "name": "not-enough-items-1-8",
+            "path": "mods/not-enough-items-1-8---not-enough-items-1.12.2-2.4.2.240-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/not-enough-items-1-8---not-enough-items-1.12.2-2.4.2.240-universal.jar",
+            "hash": "064beb533ca885ace7654c5d4066c8c7"
+        },
+        "chameleon": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Chameleon-1.12-4.1.3.jar",
+            "link": "https://minecraft.curseforge.com/projects/chameleon/files/2450900/download",
+            "name": "chameleon",
+            "path": "mods/chameleon---chameleon-1.12-4.1.3.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/chameleon---chameleon-1.12-4.1.3.jar",
+            "hash": "e42efa8f4fd42d2918128a826b740e98"
+        },
+        "zerocore": {
+            "mcversion": "1.12.2",
+            "release": "beta",
+            "version": "zerocore-1.12.2-0.1.2.8.jar",
+            "link": "https://minecraft.curseforge.com/projects/zerocore/files/2670570/download",
+            "name": "zerocore",
+            "path": "mods/zerocore---zerocore-1.12.2-0.1.2.8.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/zerocore---zerocore-1.12.2-0.1.2.8.jar",
+            "hash": "cc782f73e62792dcdb108449baec110f"
+        },
+        "baubles": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Baubles-1.12-1.5.2.jar",
+            "link": "https://minecraft.curseforge.com/projects/baubles/files/2518667/download",
+            "name": "baubles",
+            "path": "mods/baubles---baubles-1.12-1.5.2.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/baubles---baubles-1.12-1.5.2.jar",
+            "hash": "944dec4ef3fbfd4d498d94a7047af201"
+        },
+        "codechicken-lib-1-8": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "CodeChicken Lib 1.12.2-3.2.2.353-universal",
+            "link": "https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2618630/download",
+            "name": "codechicken-lib-1-8",
+            "path": "mods/codechicken-lib-1-8---codechicken-lib-1.12.2-3.2.2.353-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/codechicken-lib-1-8---codechicken-lib-1.12.2-3.2.2.353-universal.jar",
+            "hash": "f8b4843eccafb2213512ba9be17bfad2"
+        },
+        "cofhcore": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "CoFHCore-1.12.2-4.6.2.25-universal.jar",
+            "link": "https://minecraft.curseforge.com/projects/cofhcore/files/2669253/download",
+            "name": "cofhcore",
+            "path": "mods/cofhcore---cofhcore-1.12.2-4.6.2.25-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/cofhcore---cofhcore-1.12.2-4.6.2.25-universal.jar",
+            "hash": "cb72877f5ef51cf09582e035f62bcb57"
+        },
+        "mantle": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Mantle-1.12-1.3.3.49.jar",
+            "link": "https://minecraft.curseforge.com/projects/mantle/files/2693483/download",
+            "name": "mantle",
+            "path": "mods/mantle---mantle-1.12-1.3.3.49.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/mantle---mantle-1.12-1.3.3.49.jar",
+            "hash": "eb4d8475a6e6169e521febba64e792d4"
+        },
+        "storage-drawers": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "StorageDrawers-1.12.2-5.3.8.jar",
+            "link": "https://minecraft.curseforge.com/projects/storage-drawers/files/2642386/download",
+            "name": "storage-drawers",
+            "path": "mods/storage-drawers---storagedrawers-1.12.2-5.3.8.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/storage-drawers---storagedrawers-1.12.2-5.3.8.jar",
+            "hash": "ab008fc9f41cd9e215b4c8d5d7e5be6e"
+        },
+        "constructs-armory": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "conarm-1.12.2-1.2.3.4.jar",
+            "link": "https://minecraft.curseforge.com/projects/constructs-armory/files/2701828/download",
+            "name": "constructs-armory",
+            "path": "mods/constructs-armory---conarm-1.12.2-1.2.3.4.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/constructs-armory---conarm-1.12.2-1.2.3.4.jar",
+            "hash": "a211667983e19e4de79aad8f132d8993"
+        },
+        "extreme-reactors": {
+            "mcversion": "1.12.2",
+            "release": "beta",
+            "version": "ExtremeReactors-1.12.2-0.4.5.66.jar",
+            "link": "https://minecraft.curseforge.com/projects/extreme-reactors/files/2705875/download",
+            "name": "extreme-reactors",
+            "path": "mods/extreme-reactors---extremereactors-1.12.2-0.4.5.66.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/extreme-reactors---extremereactors-1.12.2-0.4.5.66.jar",
+            "hash": "47f9774bd221c4b41c764e1d5c2893f7"
+        },
+        "steves-carts-reborn": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "StevesCarts-1.12.2-2.4.30.134.jar",
+            "link": "https://minecraft.curseforge.com/projects/steves-carts-reborn/files/2695453/download",
+            "name": "steves-carts-reborn",
+            "path": "mods/steves-carts-reborn---stevescarts-1.12.2-2.4.30.134.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/steves-carts-reborn---stevescarts-1.12.2-2.4.30.134.jar",
+            "hash": "ce069d203a0fa690eeebcb55f9633676"
+        },
+        "mekanism-generators": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "MekanismGenerators-1.12.2-9.7.3.374.jar",
+            "link": "https://minecraft.curseforge.com/projects/mekanism-generators/files/2706363/download",
+            "name": "mekanism-generators",
+            "path": "mods/mekanism-generators---mekanismgenerators-1.12.2-9.7.3.374.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/mekanism-generators---mekanismgenerators-1.12.2-9.7.3.374.jar",
+            "hash": "33a04a17d317e70ca683af09447b23b9"
+        },
+        "reborncore": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "RebornCore-1.12.2-3.13.12.447-universal.jar",
+            "link": "https://minecraft.curseforge.com/projects/reborncore/files/2697453/download",
+            "name": "reborncore",
+            "path": "mods/reborncore---reborncore-1.12.2-3.13.12.447-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/reborncore---reborncore-1.12.2-3.13.12.447-universal.jar",
+            "hash": "d96134850c15e2eea962195d00b77550"
+        },
+        "natura": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "natura-1.12.2-4.3.2.66.jar",
+            "link": "https://minecraft.curseforge.com/projects/natura/files/2658980/download",
+            "name": "natura",
+            "path": "mods/natura---natura-1.12.2-4.3.2.66.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/natura---natura-1.12.2-4.3.2.66.jar",
+            "hash": "10f61fa63e6ae6e4243efb96a6b57cb9"
+        },
+        "tesla-core-lib": {
+            "mcversion": "1.12.2",
+            "release": "beta",
+            "version": "Tesla Core Lib : 1.0.15.13",
+            "link": "https://minecraft.curseforge.com/projects/tesla-core-lib/files/2580052/download",
+            "name": "tesla-core-lib",
+            "path": "mods/tesla-core-lib---tesla-core-lib-1.0.15.13.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/tesla-core-lib---tesla-core-lib-1.0.15.13.jar",
+            "hash": "b0214b0a90243374c6bd89a023f2b26e"
+        },
+        "plustic": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "plustic-7.0.6.1.jar",
+            "link": "https://minecraft.curseforge.com/projects/plustic/files/2703537/download",
+            "name": "plustic",
+            "path": "mods/plustic---plustic-7.0.6.1.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/plustic---plustic-7.0.6.1.jar",
+            "hash": "c13a85d63c69e68839fe60c336cf43d9"
+        },
+        "ctm": {
+            "mcversion": "1.12.2",
+            "release": "beta",
+            "version": "CTM - MC1.12.2-0.3.3.22",
+            "link": "https://minecraft.curseforge.com/projects/ctm/files/2642375/download",
+            "name": "ctm",
+            "path": "mods/ctm---ctm---mc1.12.2-0.3.3.22.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/ctm---ctm---mc1.12.2-0.3.3.22.jar",
+            "hash": "086cd9da4b8c50a9e483c7b580a9c4d8"
+        },
+        "jei": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "jei_1.12.2-4.15.0.268.jar",
+            "link": "https://minecraft.curseforge.com/projects/jei/files/2682936/download",
+            "name": "jei",
+            "path": "mods/jei---jei-1.12.2-4.15.0.268.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/jei---jei-1.12.2-4.15.0.268.jar",
+            "hash": "02f985065e7a2fdd17196b3030a067a4"
+        },
+        "endercore": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "EnderCore - 1.12.2-0.5.57",
+            "link": "https://minecraft.curseforge.com/projects/endercore/files/2699428/download",
+            "name": "endercore",
+            "path": "mods/endercore---endercore---1.12.2-0.5.57.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/endercore---endercore---1.12.2-0.5.57.jar",
+            "hash": "359cc98f8d86c2e43f3b0cbb0758a796"
+        },
+        "thermal-foundation": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "ThermalFoundation-1.12.2-2.6.2.26-universal.jar",
+            "link": "https://minecraft.curseforge.com/projects/thermal-foundation/files/2669258/download",
+            "name": "thermal-foundation",
+            "path": "mods/thermal-foundation---thermalfoundation-1.12.2-2.6.2.26-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/thermal-foundation---thermalfoundation-1.12.2-2.6.2.26-universal.jar",
+            "hash": "ceb3a8950a7ab555a0f3617bbc375673"
+        },
+        "treecapitator-port": {
+            "mcversion": "1.12.2",
+            "release": "alpha",
+            "version": "Treecapitator at_0.9a",
+            "link": "https://minecraft.curseforge.com/projects/treecapitator-port/files/2443661/download",
+            "name": "treecapitator-port",
+            "path": "mods/treecapitator-port---treecapitator-at-0.9a.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/treecapitator-port---treecapitator-at-0.9a.jar",
+            "hash": "60e452b5b3de3c8176982cd55919a44f"
+        },
+        "traverse": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Traverse v1.6.0 build69 for 1.12.2",
+            "link": "https://minecraft.curseforge.com/projects/traverse/files/2613657/download",
+            "name": "traverse",
+            "path": "mods/traverse---traverse-v1.6.0-build69-for-1.12.2.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/traverse---traverse-v1.6.0-build69-for-1.12.2.jar",
+            "hash": "3cc748cd333cab2e5f8132a89cd40b48"
+        },
+        "chisel": {
+            "mcversion": "1.12.2",
+            "release": "beta",
+            "version": "Chisel - MC1.12.2-0.2.1.35",
+            "link": "https://minecraft.curseforge.com/projects/chisel/files/2619468/download",
+            "name": "chisel",
+            "path": "mods/chisel---chisel---mc1.12.2-0.2.1.35.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/chisel---chisel---mc1.12.2-0.2.1.35.jar",
+            "hash": "dbda5475859bcffc9f572c5a1506a1f4"
+        },
+        "cofh-world": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "CoFHWorld-1.12.2-1.3.0.6-universal.jar",
+            "link": "https://minecraft.curseforge.com/projects/cofh-world/files/2623091/download",
+            "name": "cofh-world",
+            "path": "mods/cofh-world---cofhworld-1.12.2-1.3.0.6-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/cofh-world---cofhworld-1.12.2-1.3.0.6-universal.jar",
+            "hash": "c62ac9be4542047c31d847a80d3955ea"
+        },
+        "tinkers-construct": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "TConstruct-1.12.2-2.12.0.135.jar",
+            "link": "https://minecraft.curseforge.com/projects/tinkers-construct/files/2693496/download",
+            "name": "tinkers-construct",
+            "path": "mods/tinkers-construct---tconstruct-1.12.2-2.12.0.135.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/tinkers-construct---tconstruct-1.12.2-2.12.0.135.jar",
+            "hash": "7f983680e4040cc1d70ea5c6fe1819aa"
+        },
+        "tinkers-tool-leveling": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "TinkerToolLeveling-1.12.2-1.1.0.jar",
+            "link": "https://minecraft.curseforge.com/projects/tinkers-tool-leveling/files/2630860/download",
+            "name": "tinkers-tool-leveling",
+            "path": "mods/tinkers-tool-leveling---tinkertoolleveling-1.12.2-1.1.0.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/tinkers-tool-leveling---tinkertoolleveling-1.12.2-1.1.0.jar",
+            "hash": "f9253fe86c6649afbf49d221c71ba19a"
+        },
+        "redstone-flux": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
+            "link": "https://minecraft.curseforge.com/projects/redstone-flux/files/2623090/download",
+            "name": "redstone-flux",
+            "path": "mods/redstone-flux---redstoneflux-1.12-2.1.0.6-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/redstone-flux---redstoneflux-1.12-2.1.0.6-universal.jar",
+            "hash": "f00530b437c41a189dbf8a85d0ac40b6"
+        },
+        "mekanism-tools": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "MekanismTools-1.12.2-9.7.3.374.jar",
+            "link": "https://minecraft.curseforge.com/projects/mekanism-tools/files/2706364/download",
+            "name": "mekanism-tools",
+            "path": "mods/mekanism-tools---mekanismtools-1.12.2-9.7.3.374.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/mekanism-tools---mekanismtools-1.12.2-9.7.3.374.jar",
+            "hash": "dba6b5cef84ce6c6b2408abe77355457"
+        },
+        "bibliocraft": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "BiblioCraft v2.4.5",
+            "link": "https://minecraft.curseforge.com/projects/bibliocraft/files/2574880/download",
+            "name": "bibliocraft",
+            "path": "mods/bibliocraft---bibliocraft-v2.4.5.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/bibliocraft---bibliocraft-v2.4.5.jar",
+            "hash": "5b9f1a1543a1fdf687fe4761e3d63ed4"
         },
         "computercraft": {
             "mcversion": "1.12.2",
@@ -309,139 +359,199 @@
             "version": "ComputerCraft1.80pr1",
             "link": "https://minecraft.curseforge.com/projects/computercraft/files/2478952/download",
             "name": "computercraft",
-            "path": "build/mods/computercraft---computercraft1.80pr1.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/computercraft---computercraft1.80pr1.jar",
+            "path": "mods/computercraft---computercraft1.80pr1.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/computercraft---computercraft1.80pr1.jar",
             "hash": "df638d71e9f8834cf7f0784cf4ab4f41"
         },
-        "xaeros-minimap": {
+        "industrial-foregoing": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "v1.14.9.1 for Minecraft 1.12.2 | 1.12.1 | 1.12",
-            "link": "https://minecraft.curseforge.com/projects/xaeros-minimap/files/2543411/download",
-            "name": "xaeros-minimap",
-            "path": "build/mods/xaeros-minimap---v1.14.9.1-for-minecraft-1.12.2-1.12.1-1.12.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/xaeros-minimap---v1.14.9.1-for-minecraft-1.12.2-1.12.1-1.12.jar",
-            "hash": "40b0379944fc11ea14a02cd87d36324b"
+            "version": "industrialforegoing-1.12.2-1.12.11-235.jar",
+            "link": "https://minecraft.curseforge.com/projects/industrial-foregoing/files/2693866/download",
+            "name": "industrial-foregoing",
+            "path": "mods/industrial-foregoing---industrialforegoing-1.12.2-1.12.11-235.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/industrial-foregoing---industrialforegoing-1.12.2-1.12.11-235.jar",
+            "hash": "035286a7d84d339f5ae927b4652f7704"
         },
-        "buildcraft": {
-            "mcversion": "1.12.2",
-            "release": "alpha",
-            "version": "BuildCraft 7.99.16",
-            "link": "https://minecraft.curseforge.com/projects/buildcraft/files/2551866/download",
-            "name": "buildcraft",
-            "path": "build/mods/buildcraft---buildcraft-7.99.16.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/buildcraft---buildcraft-7.99.16.jar",
-            "hash": "3baa587bc3d927c82f26bd5cb39df764"
-        },
-        "shadowfacts-forgelin": {
+        "hwyla": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "Forgelin-1.6.0.jar",
-            "link": "https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2505090/download",
-            "name": "shadowfacts-forgelin",
-            "path": "build/mods/shadowfacts-forgelin---forgelin-1.6.0.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/shadowfacts-forgelin---forgelin-1.6.0.jar",
-            "hash": "a6a1d137f7bbbbe5f89ecb790105f268"
+            "version": "Hwyla-1.8.26-B41_1.12.2.jar",
+            "link": "https://minecraft.curseforge.com/projects/hwyla/files/2568751/download",
+            "name": "hwyla",
+            "path": "mods/hwyla---hwyla-1.8.26-b41-1.12.2.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/hwyla---hwyla-1.8.26-b41-1.12.2.jar",
+            "hash": "bca1c069d9171d331d211d24e8a3b770"
         },
-        "mantle": {
+        "wearable-backpacks": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "Mantle-1.12-1.3.2.24.jar",
-            "link": "https://minecraft.curseforge.com/projects/mantle/files/2550550/download",
-            "name": "mantle",
-            "path": "build/mods/mantle---mantle-1.12-1.3.2.24.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/mantle---mantle-1.12-1.3.2.24.jar",
-            "hash": "e2cd9d3d5ad2078062c91f9c33fd215c"
+            "version": "Wearable Backpacks - 1.12.2 - 3.1.3",
+            "link": "https://minecraft.curseforge.com/projects/wearable-backpacks/files/2576699/download",
+            "name": "wearable-backpacks",
+            "path": "mods/wearable-backpacks---wearable-backpacks---1.12.2---3.1.3.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/wearable-backpacks---wearable-backpacks---1.12.2---3.1.3.jar",
+            "hash": "3de43527272a6d39ef0463ef405c53d5"
         },
-        "thermal-foundation": {
+        "mystical-agriculture": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "ThermalFoundation-1.12.2-2.3.12.10-universal.jar",
-            "link": "https://minecraft.curseforge.com/projects/thermal-foundation/files/2552625/download",
-            "name": "thermal-foundation",
-            "path": "build/mods/thermal-foundation---thermalfoundation-1.12.2-2.3.12.10-universal.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/thermal-foundation---thermalfoundation-1.12.2-2.3.12.10-universal.jar",
-            "hash": "fa1740305f3ef2d8ab91f2d9503cd24b"
-        },
-        "recurrent-complex": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "RecurrentComplex-1.4.7.jar",
-            "link": "https://minecraft.curseforge.com/projects/recurrent-complex/files/2516761/download",
-            "name": "recurrent-complex",
-            "path": "build/mods/recurrent-complex---recurrentcomplex-1.4.7.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/recurrent-complex---recurrentcomplex-1.4.7.jar",
-            "hash": "a4033c25cad58e021d0479768665c8b9"
-        },
-        "tinkers-construct": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "TConstruct-1.12.2-2.9.1.65.jar",
-            "link": "https://minecraft.curseforge.com/projects/tinkers-construct/files/2530200/download",
-            "name": "tinkers-construct",
-            "path": "build/mods/tinkers-construct---tconstruct-1.12.2-2.9.1.65.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/tinkers-construct---tconstruct-1.12.2-2.9.1.65.jar",
-            "hash": "5d25cd5d624acc0f3333ea11da65252d"
-        },
-        "ender-io": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Ender IO - 5.0.22",
-            "link": "https://minecraft.curseforge.com/projects/ender-io/files/2552714/download",
-            "name": "ender-io",
-            "path": "build/mods/ender-io---ender-io---5.0.22.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/ender-io---ender-io---5.0.22.jar",
-            "hash": "3ed59e632abaf353165619c4c3768cd1"
-        },
-        "mekanism": {
-            "mcversion": "1.12.2",
-            "release": "stable",
-            "version": "Mekanism-1.12.2-9.4.3.330.jar",
-            "link": "https://minecraft.curseforge.com/projects/mekanism/files/2510812/download",
-            "name": "mekanism",
-            "path": "build/mods/mekanism---mekanism-1.12.2-9.4.3.330.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/mekanism---mekanism-1.12.2-9.4.3.330.jar",
-            "hash": "e2608c622fddf3560b6fadb8164736d7"
-        },
-        "dimensionaldoors": {
-            "mcversion": "1.12.2",
-            "release": "beta",
-            "version": "Dimensional Doors 3.0.7 Beta 7.1",
-            "link": "https://minecraft.curseforge.com/projects/dimensionaldoors/files/2535189/download",
-            "name": "dimensionaldoors",
-            "path": "build/mods/dimensionaldoors---dimensional-doors-3.0.7-beta-7.1.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/dimensionaldoors---dimensional-doors-3.0.7-beta-7.1.jar",
-            "hash": "6da4a078d8718b02f3512c4764ea6de1"
+            "version": "MysticalAgriculture-1.12.2-1.7.5.jar",
+            "link": "https://minecraft.curseforge.com/projects/mystical-agriculture/files/2704562/download",
+            "name": "mystical-agriculture",
+            "path": "mods/mystical-agriculture---mysticalagriculture-1.12.2-1.7.5.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/mystical-agriculture---mysticalagriculture-1.12.2-1.7.5.jar",
+            "hash": "b7b81747d20baf1c5547ee302bad1420"
         },
         "the-twilight-forest": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "Twilight Forest - MC 1.12.2 - 3.6.345",
-            "link": "https://minecraft.curseforge.com/projects/the-twilight-forest/files/2528109/download",
+            "version": "Twilight Forest - MC 1.12.2 - 3.8.689",
+            "link": "https://minecraft.curseforge.com/projects/the-twilight-forest/files/2618264/download",
             "name": "the-twilight-forest",
-            "path": "build/mods/the-twilight-forest---twilight-forest---mc-1.12.2---3.6.345.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/the-twilight-forest---twilight-forest---mc-1.12.2---3.6.345.jar",
-            "hash": "21a022ef5c11156f6f8cc93abaf56c41"
+            "path": "mods/the-twilight-forest---twilight-forest---mc-1.12.2---3.8.689.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/the-twilight-forest---twilight-forest---mc-1.12.2---3.8.689.jar",
+            "hash": "d9a9e3e5dd851f5cbb50b72aab5e6037"
         },
-        "bibliocraft": {
+        "waila-harvestability": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "BiblioCraft v2.4.3",
-            "link": "https://minecraft.curseforge.com/projects/bibliocraft/files/2456043/download",
-            "name": "bibliocraft",
-            "path": "build/mods/bibliocraft---bibliocraft-v2.4.3.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/bibliocraft---bibliocraft-v2.4.3.jar",
-            "hash": "a3733a86d30d0a3c0ce585e838ea7db1"
+            "version": "WailaHarvestability-mc1.12-1.1.12.jar",
+            "link": "https://minecraft.curseforge.com/projects/waila-harvestability/files/2481605/download",
+            "name": "waila-harvestability",
+            "path": "mods/waila-harvestability---wailaharvestability-mc1.12-1.1.12.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/waila-harvestability---wailaharvestability-mc1.12-1.1.12.jar",
+            "hash": "0bd8765ff3064be336cb1b09208e410c"
         },
-        "aether-legacy": {
+        "forestry": {
             "mcversion": "1.12.2",
             "release": "stable",
-            "version": "Aether Legacy v3.0",
-            "link": "https://minecraft.curseforge.com/projects/aether-legacy/files/2553665/download",
-            "name": "aether-legacy",
-            "path": "build/mods/aether-legacy---aether-legacy-v3.0.jar",
-            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/build/mods/aether-legacy---aether-legacy-v3.0.jar",
-            "hash": "c093f89d4a8be89c867dcd84bd2e7d1d"
+            "version": "forestry_1.12.2-5.8.1.322.jar",
+            "link": "https://minecraft.curseforge.com/projects/forestry/files/2583367/download",
+            "name": "forestry",
+            "path": "mods/forestry---forestry-1.12.2-5.8.1.322.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/forestry---forestry-1.12.2-5.8.1.322.jar",
+            "hash": "c008259605fed2e27d623687a2c045b1"
+        },
+        "thermalexpansion": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "ThermalExpansion-1.12.2-5.5.3.41-universal.jar",
+            "link": "https://minecraft.curseforge.com/projects/thermalexpansion/files/2669257/download",
+            "name": "thermalexpansion",
+            "path": "mods/thermalexpansion---thermalexpansion-1.12.2-5.5.3.41-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/thermalexpansion---thermalexpansion-1.12.2-5.5.3.41-universal.jar",
+            "hash": "3007785edb021cedf51610119066d23a"
+        },
+        "stimmedcow-nomorerecipeconflict": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "NoMoreRecipeConflict-0.13",
+            "link": "https://minecraft.curseforge.com/projects/stimmedcow-nomorerecipeconflict/files/2671230/download",
+            "name": "stimmedcow-nomorerecipeconflict",
+            "path": "mods/stimmedcow-nomorerecipeconflict---nomorerecipeconflict-0.13.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/stimmedcow-nomorerecipeconflict---nomorerecipeconflict-0.13.jar",
+            "hash": "95ca245f9c463dfa7467575e37d6cb2e"
+        },
+        "ender-storage-1-8": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Ender Storage 1.12.2-2.4.5.135-universal",
+            "link": "https://minecraft.curseforge.com/projects/ender-storage-1-8/files/2594243/download",
+            "name": "ender-storage-1-8",
+            "path": "mods/ender-storage-1-8---ender-storage-1.12.2-2.4.5.135-universal.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/ender-storage-1-8---ender-storage-1.12.2-2.4.5.135-universal.jar",
+            "hash": "d7d6b1991449110cfa7b1844b5811f75"
+        },
+        "iron-chests": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "ironchest-1.12.2-7.0.59.842.jar",
+            "link": "https://minecraft.curseforge.com/projects/iron-chests/files/2670493/download",
+            "name": "iron-chests",
+            "path": "mods/iron-chests---ironchest-1.12.2-7.0.59.842.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/iron-chests---ironchest-1.12.2-7.0.59.842.jar",
+            "hash": "6c30ff1e706cc56bd2d6605ac804d46a"
+        },
+        "immersive-engineering": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Immersive Engineering 0.12 - 89",
+            "link": "https://minecraft.curseforge.com/projects/immersive-engineering/files/2676501/download",
+            "name": "immersive-engineering",
+            "path": "mods/immersive-engineering---immersive-engineering-0.12---89.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/immersive-engineering---immersive-engineering-0.12---89.jar",
+            "hash": "b79a17d68e023e2cab3fcb99fff19f9a"
+        },
+        "projecte": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "ProjectE-1.12.2-PE1.4.1.jar",
+            "link": "https://minecraft.curseforge.com/projects/projecte/files/2702991/download",
+            "name": "projecte",
+            "path": "mods/projecte---projecte-1.12.2-pe1.4.1.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/projecte---projecte-1.12.2-pe1.4.1.jar",
+            "hash": "4601ba2741f192bcd01d132aa3e219b5"
+        },
+        "thaumcraft": {
+            "mcversion": "1.12.2",
+            "release": "beta",
+            "version": "Thaumcraft-1.12.2-6.1.BETA26.jar",
+            "link": "https://minecraft.curseforge.com/projects/thaumcraft/files/2629023/download",
+            "name": "thaumcraft",
+            "path": "mods/thaumcraft---thaumcraft-1.12.2-6.1.beta26.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/thaumcraft---thaumcraft-1.12.2-6.1.beta26.jar",
+            "hash": "3b13783ccaafb5d5b9ce8cb85e87fff6"
+        },
+        "the-aether": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Aether Legacy 1.12.2-v1.4.4",
+            "link": "https://minecraft.curseforge.com/projects/the-aether/files/2698950/download",
+            "name": "the-aether",
+            "path": "mods/the-aether---aether-legacy-1.12.2-v1.4.4.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/the-aether---aether-legacy-1.12.2-v1.4.4.jar",
+            "hash": "d0bdb52e5510ec4b03e134abae5d221f"
+        },
+        "ender-io": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Ender IO - 5.0.43",
+            "link": "https://minecraft.curseforge.com/projects/ender-io/files/2692118/download",
+            "name": "ender-io",
+            "path": "mods/ender-io---ender-io---5.0.43.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/ender-io---ender-io---5.0.43.jar",
+            "hash": "a08e6e9c81135fa77ac1df1f2f98c594"
+        },
+        "mekanism": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Mekanism-1.12.2-9.7.3.374.jar",
+            "link": "https://minecraft.curseforge.com/projects/mekanism/files/2706361/download",
+            "name": "mekanism",
+            "path": "mods/mekanism---mekanism-1.12.2-9.7.3.374.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/mekanism---mekanism-1.12.2-9.7.3.374.jar",
+            "hash": "9d4bd78829a7785c02638d09f3a013e9"
+        },
+        "shadowfacts-forgelin": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Forgelin-1.8.2.jar",
+            "link": "https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2640952/download",
+            "name": "shadowfacts-forgelin",
+            "path": "mods/shadowfacts-forgelin---forgelin-1.8.2.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/shadowfacts-forgelin---forgelin-1.8.2.jar",
+            "hash": "59035365f7af35f599d1c4baade64d8b"
+        },
+        "refined-storage": {
+            "mcversion": "1.12.2",
+            "release": "stable",
+            "version": "Refined Storage 1.6.14",
+            "link": "https://minecraft.curseforge.com/projects/refined-storage/files/2690877/download",
+            "name": "refined-storage",
+            "path": "mods/refined-storage---refined-storage-1.6.14.jar",
+            "fullpath": "/Users/krues8dr/Projects/Minecraft/bigfork/mods/refined-storage---refined-storage-1.6.14.jar",
+            "hash": "1591adeb14e4430335a32ce5b7e1c1cd"
         }
     }
 }
